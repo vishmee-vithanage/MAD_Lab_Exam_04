@@ -1,4 +1,6 @@
-## IT22081834 | TODO App - Plan Today | MVVM | Room DB | Android Studio Kotlin
+## IT22081834 
+## TODO App - Plan Today 
+## MVVM | Room DB | Android Studio Kotlin
 ## Designing Insert, Update, and View Dialogs
 ## MVVM, Room DB, Design Loading Dialog and Validation
 ## Insert Task Implementation
